@@ -1,0 +1,65 @@
+.button-white {
+    padding: 2% 4%;
+    font-size: 14px;
+    font-weight: 520;
+    color: #b11313;
+    background: #fff;
+    border-radius: 10px;
+    display: inline-block;
+    border: 2px solid #fff;
+}
+
+.button-white:hover {
+    color: #fff;
+    background: none;
+}
+
+header, .banner {
+    position: relative;
+    background: #b11313;
+}
+
+header .banner .text-container {
+    top: 29%;
+    left: 15%;
+    color: #fff;
+    position: absolute;
+}
+
+header  h1.hero_name {
+    font-size: 5em;
+    font-weight: 300;
+    padding-bottom: 10%;
+    text-transform: uppercase;
+}
+
+header .banner .buttons{
+    padding-bottom: 8%;
+}
+
+header .banner .buttons a{
+    width: 32%;
+    padding: 3% 3%;
+    text-align: center;
+    border-radius: 18px;
+    display: inline-block;
+    
+}
+
+header .banner .buttons .reverse {
+    color: #fff;
+    margin-left: 5%;
+    background: none;
+}
+
+header .banner .buttons a.reverse:hover {
+    color: #b11313;
+    background: #fff;
+}
+
+header .banner p {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
